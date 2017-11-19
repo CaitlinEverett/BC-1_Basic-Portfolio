@@ -26,6 +26,13 @@ h2{
 	margin-bottom:20px;
 }
 
+h3{
+	color: gray;
+	font-size:18px;
+	line-height:22px;
+	margin:20px 0px 10px 0px;
+	}
+
 header{
 	position: fixed;
 	top: 0px;
@@ -133,6 +140,11 @@ footer{
 	border: 1px solid #dddddd;
 }
 
+#left_content p{
+	color:gray;
+	margin:0px 0px 20px 0px;
+}
+
 #left_content img{
 	float:left;
 	/*clear:both;*/
@@ -179,6 +191,7 @@ footer{
 
 #left_content textarea{
 	height:250px;
+	border: 1px solid #cccccc;
 }
 
 #connect{
@@ -199,3 +212,9 @@ footer{
 	padding:3px;
 }
 
+input{
+	color:#adadad;
+	font-size:18px;
+	line-height:28px;
+	padding:2px 8px 2px 8px;
+}
